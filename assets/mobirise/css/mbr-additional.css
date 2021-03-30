@@ -722,24 +722,6 @@ a {
   background-color: #ffffff;
   overflow: hidden;
 }
-.cid-staAOVRZGV {
-  padding-top: 6rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-staAOVRZGV .card-wrapper {
-  display: flex;
-}
-@media (max-width: 991px) {
-  .cid-staAOVRZGV .card-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-staAOVRZGV .mbr-iconfont {
-  font-size: 2rem;
-  color: #6592e6;
-  padding-right: 1.5rem;
-}
 .cid-s5yZTTo2DU {
   z-index: 1000;
   width: 100%;
